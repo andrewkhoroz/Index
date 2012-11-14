@@ -11,6 +11,7 @@ public class Index {
 		System.out.print("ak_1");
 		System.out.print("ak_1_1");
 		System.out.print("ak_1_2");
+		System.out.print("DEVELOP1");
 	}
 
 }
